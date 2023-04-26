@@ -1,0 +1,51 @@
+
+.loginbox {
+    margin: 0 auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 310px;
+    padding: 20px;
+    padding-top: 0;
+    border: 2px solid rgba(206, 204, 204, 0.555)
+}
+
+input[type="text"] {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.forgotpass {
+    float: right;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+}
+.footer a {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.newamazon {
+    text-align: center;
+}
+
+#continue {
+    width: 308px;
+    background-color: orange;
+    border: 2px outset rgba(206, 204, 204, 0.555) ;
+}
+
+#krillin {
+    margin: 0 auto;
+    display:flex;
+    align-items: center;
+    height: 200px;
+    padding-bottom: 30px;
+}
+
+a {
+    color: blue
+}
